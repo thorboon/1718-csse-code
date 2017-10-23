@@ -1,0 +1,10 @@
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\bin\Debug\netcoreapp2.0\1718-csse-code.deps.json
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\bin\Debug\netcoreapp2.0\1718-csse-code.runtimeconfig.json
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\bin\Debug\netcoreapp2.0\1718-csse-code.runtimeconfig.dev.json
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\bin\Debug\netcoreapp2.0\1718-csse-code.dll
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\bin\Debug\netcoreapp2.0\1718-csse-code.pdb
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\obj\Debug\netcoreapp2.0\1718-csse-code.csproj.CoreCompileInputs.cache
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\obj\Debug\netcoreapp2.0\1718-csse-code.AssemblyInfoInputs.cache
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\obj\Debug\netcoreapp2.0\1718-csse-code.AssemblyInfo.cs
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\obj\Debug\netcoreapp2.0\1718-csse-code.dll
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\obj\Debug\netcoreapp2.0\1718-csse-code.pdb
