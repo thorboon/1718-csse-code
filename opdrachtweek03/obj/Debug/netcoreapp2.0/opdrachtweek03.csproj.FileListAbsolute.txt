@@ -1,0 +1,20 @@
+C:\Users\topsolver\Code\1718-csse-code\opdrachtweek03\bin\Debug\netcoreapp2.0\opdrachtweek03.deps.json
+C:\Users\topsolver\Code\1718-csse-code\opdrachtweek03\bin\Debug\netcoreapp2.0\opdrachtweek03.runtimeconfig.json
+C:\Users\topsolver\Code\1718-csse-code\opdrachtweek03\bin\Debug\netcoreapp2.0\opdrachtweek03.runtimeconfig.dev.json
+C:\Users\topsolver\Code\1718-csse-code\opdrachtweek03\bin\Debug\netcoreapp2.0\opdrachtweek03.dll
+C:\Users\topsolver\Code\1718-csse-code\opdrachtweek03\bin\Debug\netcoreapp2.0\opdrachtweek03.pdb
+C:\Users\topsolver\Code\1718-csse-code\opdrachtweek03\obj\Debug\netcoreapp2.0\opdrachtweek03.csproj.CoreCompileInputs.cache
+C:\Users\topsolver\Code\1718-csse-code\opdrachtweek03\obj\Debug\netcoreapp2.0\opdrachtweek03.AssemblyInfoInputs.cache
+C:\Users\topsolver\Code\1718-csse-code\opdrachtweek03\obj\Debug\netcoreapp2.0\opdrachtweek03.AssemblyInfo.cs
+C:\Users\topsolver\Code\1718-csse-code\opdrachtweek03\obj\Debug\netcoreapp2.0\opdrachtweek03.dll
+C:\Users\topsolver\Code\1718-csse-code\opdrachtweek03\obj\Debug\netcoreapp2.0\opdrachtweek03.pdb
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek03\bin\Debug\netcoreapp2.0\opdrachtweek03.deps.json
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek03\bin\Debug\netcoreapp2.0\opdrachtweek03.runtimeconfig.json
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek03\bin\Debug\netcoreapp2.0\opdrachtweek03.runtimeconfig.dev.json
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek03\bin\Debug\netcoreapp2.0\opdrachtweek03.dll
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek03\bin\Debug\netcoreapp2.0\opdrachtweek03.pdb
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek03\obj\Debug\netcoreapp2.0\opdrachtweek03.csproj.CoreCompileInputs.cache
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek03\obj\Debug\netcoreapp2.0\opdrachtweek03.AssemblyInfoInputs.cache
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek03\obj\Debug\netcoreapp2.0\opdrachtweek03.AssemblyInfo.cs
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek03\obj\Debug\netcoreapp2.0\opdrachtweek03.dll
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek03\obj\Debug\netcoreapp2.0\opdrachtweek03.pdb
