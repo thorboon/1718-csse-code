@@ -1,0 +1,30 @@
+/Users/lukasmarynissen/Code/csse/1718-csse-code/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.csproj.CoreCompileInputs.cache
+/Users/lukasmarynissen/Code/csse/1718-csse-code/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.AssemblyInfoInputs.cache
+/Users/lukasmarynissen/Code/csse/1718-csse-code/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.AssemblyInfo.cs
+/Users/lukasmarynissen/Code/csse/1718-csse-code/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.deps.json
+/Users/lukasmarynissen/Code/csse/1718-csse-code/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.runtimeconfig.json
+/Users/lukasmarynissen/Code/csse/1718-csse-code/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.runtimeconfig.dev.json
+/Users/lukasmarynissen/Code/csse/1718-csse-code/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.dll
+/Users/lukasmarynissen/Code/csse/1718-csse-code/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.pdb
+/Users/lukasmarynissen/Code/csse/1718-csse-code/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.dll
+/Users/lukasmarynissen/Code/csse/1718-csse-code/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.pdb
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\opdrachtweek11\bin\Debug\netcoreapp2.0\opdrachtweek11.deps.json
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\opdrachtweek11\bin\Debug\netcoreapp2.0\opdrachtweek11.runtimeconfig.json
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\opdrachtweek11\bin\Debug\netcoreapp2.0\opdrachtweek11.runtimeconfig.dev.json
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\opdrachtweek11\bin\Debug\netcoreapp2.0\opdrachtweek11.dll
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\opdrachtweek11\bin\Debug\netcoreapp2.0\opdrachtweek11.pdb
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\opdrachtweek11\obj\Debug\netcoreapp2.0\opdrachtweek11.csproj.CoreCompileInputs.cache
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\opdrachtweek11\obj\Debug\netcoreapp2.0\opdrachtweek11.AssemblyInfoInputs.cache
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\opdrachtweek11\obj\Debug\netcoreapp2.0\opdrachtweek11.AssemblyInfo.cs
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\opdrachtweek11\obj\Debug\netcoreapp2.0\opdrachtweek11.dll
+C:\Users\thorb\Documents\school\Semester 7\CSSE\1718-csse-code\opdrachtweek11\obj\Debug\netcoreapp2.0\opdrachtweek11.pdb
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek11\bin\Debug\netcoreapp2.0\opdrachtweek11.deps.json
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek11\bin\Debug\netcoreapp2.0\opdrachtweek11.runtimeconfig.json
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek11\bin\Debug\netcoreapp2.0\opdrachtweek11.runtimeconfig.dev.json
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek11\bin\Debug\netcoreapp2.0\opdrachtweek11.dll
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek11\bin\Debug\netcoreapp2.0\opdrachtweek11.pdb
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek11\obj\Debug\netcoreapp2.0\opdrachtweek11.csproj.CoreCompileInputs.cache
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek11\obj\Debug\netcoreapp2.0\opdrachtweek11.AssemblyInfoInputs.cache
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek11\obj\Debug\netcoreapp2.0\opdrachtweek11.AssemblyInfo.cs
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek11\obj\Debug\netcoreapp2.0\opdrachtweek11.dll
+C:\Users\thorb\Documents\school\Semester 7\CSSE\Code_github\1718-csse-code\opdrachtweek11\obj\Debug\netcoreapp2.0\opdrachtweek11.pdb
